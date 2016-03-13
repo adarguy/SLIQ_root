@@ -1,0 +1,10 @@
+0 single
+1 single
+2 married
+3 single
+4 married
+5 single
+6 married
+7 single
+8 married
+9 single
